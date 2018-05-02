@@ -1,0 +1,31 @@
+body{
+    background-image: url('http://i.stack.imgur.com/kx8MT.gif');
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#formm{
+margin-top: 70px;
+margin-left: 350px;
+border:solid grey 2px;
+width: 30%;
+border-radius: 10px;
+background: white;
+padding :45px;
+}
+
+#btn{
+    background-color: #9d50b7;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+button:hover {
+    opacity: 0.8;
+}
+p{
+    font-family: forte;
+    font-size: 20px;
+    
+}
